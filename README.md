@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=dustinscode&color=ff69b4&style=flat&label=visitors)
 
-<a href="https://www.linkedin.com/in/dustycode/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"/>
-</a>
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dustycode/)
+
 
   
 
