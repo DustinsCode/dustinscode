@@ -1,7 +1,12 @@
 <h2>Hi, I'm Dustin Thurston! <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width=30/> </h2>
 
 ![](https://komarev.com/ghpvc/?username=dustinscode&color=ff69b4&style=flat&label=visitors)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dustycode/) 
+
+<a href="https://www.linkedin.com/in/dustycode/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"/>
+</a>
+
+  
 
 
 <p>I'm a full stack developer from Michigan, currently working for Ford Motor Company!</p>
