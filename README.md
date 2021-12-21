@@ -9,22 +9,18 @@
 
 <p>I'm a full stack developer from Michigan, currently working for Ford Motor Company!</p>
 
-<h2>🚧 This is a work in progress 🚧</h2>
-
 <h2>Tools I use</h2>
 
+<span>
+  <img alt="JavaScript" src="https://img.icons8.com/dusk/64/000000/javascript.png" width=50/>
+  <img alt="HTML5" src="https://img.icons8.com/dusk/64/000000/html-5.png" width=50/>
+  <img alt="Sass" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width=50/>
+  <img alt="React" src="https://img.icons8.com/dusk/64/000000/react.png" width=50/>
+  <img alt="ExpressJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width=50/>
+  <img alt="VS Code" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width=50/>
+  <img src="https://img.icons8.com/dusk/64/000000/github.png" width=50/>
+  <img alt="Git" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=50/>
+  <img alt="NextJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width=50/>
+  <img alt="Vue" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' width=50/>
+</span>
 
-<!--
-**DustinsCode/dustinscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
