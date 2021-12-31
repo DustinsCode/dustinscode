@@ -1,4 +1,4 @@
-<h2>Hi, I'm Dustin Thurston! <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width=30/> </h2>
+<h2>Hi, I'm Dustin! <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width=30/> </h2>
 
 ![](https://komarev.com/ghpvc/?username=dustinscode&color=ff69b4&style=flat&label=visitors)
 
