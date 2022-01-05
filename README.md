@@ -9,6 +9,8 @@
 
 <p>I'm a full stack developer from Michigan, currently working for Ford Motor Company!</p>
 
+<p><a href="https://dustinscode.github.io/portfolio/">Portfolio</a> (Work in progress)</p>
+
 <h2>Tools I use</h2>
 
 <span>
