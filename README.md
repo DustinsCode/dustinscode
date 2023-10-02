@@ -10,6 +10,7 @@
 
 ```bash
 npx dustycode
+#npx dustycode@latest if running from WSL
 ```
 
 <p><a href="https://dustycode.vercel.app/"><s>Portfolio</s></a> <s>(Work in progress)</s></p>
