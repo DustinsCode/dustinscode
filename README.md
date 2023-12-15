@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/dustycode/)
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white)](https://open.spotify.com/user/124360638?si=9392d64bc8ad4ad8)
 
-<p>I'm a full stack developer from Michigan, currently working for Ford Motor Company!</p>
+<p>I'm a full stack developer from Michigan, currently working for Zenimax Online Studios as an applications engineer!</p>
 
 ```bash
 npx dustycode
