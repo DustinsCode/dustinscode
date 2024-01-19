@@ -16,6 +16,7 @@ npx dustycode
 <p><a href="https://dustycode.vercel.app/"><s>Portfolio</s></a> <s>(Work in progress)</s></p>
 <p><a href="https://www.figma.com/file/ElU8hDhWUYud891zkL4YjK/Portfolio-Design?type=design&node-id=0%3A1&t=BSgZB8iCLCVqWe34-1">New Portfolio Design (to be built)</p>
 
+<!--
 <h2>Tools I use</h2>
 
 <span>
@@ -30,13 +31,10 @@ npx dustycode
   <img alt="Spring Boot" title="Spring Boot" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width=50 />
   <img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width=50 />
   <img alt="Docker" title="Docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width=50 />
-<!--   <img alt="ExpressJS" title="ExpresssJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width=50/> -->
   <img alt="VS Code" title="VS Code" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width=50/>
   <img alt="GitHub" title="GitHub" src="https://img.icons8.com/dusk/64/000000/github.png" width=50/>
   <img alt="Git" title="Git" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=50/>
-<!--   <img alt="Vue" title="Vue" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' width=50/> -->
   <img alt="Figma" title="Figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width=50/>
 </span>
-
-<!-- <h2>Tools I have used</h2> -->
+ -->
 
