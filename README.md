@@ -4,8 +4,7 @@
 
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dustycode/)
 [![](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/dustycode/)
-[![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white)](https://open.spotify.com/user/124360638?si=9392d64bc8ad4ad8)
-
+[![](https://img.shields.io/badge/-LastFM-D51007?logo=lastdotfm&logoColor=white)](https://www.last.fm/user/dustycode)
 <p>I'm a full stack developer from Michigan, currently working for Zenimax Online Studios as an applications engineer!</p>
 
 ```bash
@@ -13,6 +12,10 @@ npx dustycode
 #npx dustycode@latest if running from WSL
 ```
 
+# Currently
+- Learning and playing around with graphics programming using Rust
+
+# Backlog
 <p><a href="https://dustycode.vercel.app/"><s>Portfolio</s></a> <s>(Work in progress)</s></p>
 <p><a href="https://www.figma.com/file/ElU8hDhWUYud891zkL4YjK/Portfolio-Design?type=design&node-id=0%3A1&t=BSgZB8iCLCVqWe34-1">New Portfolio Design (to be built)</p>
 
