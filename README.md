@@ -13,7 +13,7 @@ npx dustycode
 ```
 
 # Currently
-- Learning and playing around with graphics programming using Rust
+- Learning and playing around with graphics programming
 
 # Backlog
 <p><a href="https://dustycode.vercel.app/"><s>Portfolio</s></a> <s>(Work in progress)</s></p>
