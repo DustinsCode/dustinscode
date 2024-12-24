@@ -15,10 +15,6 @@ npx dustycode
 # Currently
 - Learning and playing around with graphics programming
 
-# Backlog
-<p><a href="https://dustycode.vercel.app/"><s>Portfolio</s></a> <s>(Work in progress)</s></p>
-<p><a href="https://www.figma.com/file/ElU8hDhWUYud891zkL4YjK/Portfolio-Design?type=design&node-id=0%3A1&t=BSgZB8iCLCVqWe34-1">New Portfolio Design (to be built)</p>
-
 <!--
 <h2>Tools I use</h2>
 
