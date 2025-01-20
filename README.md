@@ -2,10 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=dustinscode&color=ff69b4&style=flat&label=visitors)
 
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dustycode/)
-[![](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/dustycode/)
-[![](https://img.shields.io/badge/-LastFM-D51007?logo=lastdotfm&logoColor=white)](https://www.last.fm/user/dustycode)
 <p>I'm a full stack developer from Michigan, currently working for Zenimax Online Studios as an applications engineer!</p>
+
+If you are [@dustycode](https://github.com/dustycode), please delete your account or change your account name so I can finally have the correct username here.  Thank you.
 
 ```bash
 npx dustycode
@@ -13,7 +12,8 @@ npx dustycode
 ```
 
 # Currently
-- Learning and playing around with graphics programming
+- Building websites and stuff
+- playing balatro, probably
 
 <!--
 <h2>Tools I use</h2>
