@@ -1,10 +1,10 @@
-<h2>Hi, I'm Dustin! <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width=20/> </h2>
+<h2>Hi, I'm Dustin! <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width=10/> </h2>
 
 ![](https://komarev.com/ghpvc/?username=dustinscode&color=ff69b4&style=flat&label=visitors)
 
 <p>I'm a full stack developer from Michigan, currently working for Zenimax Online Studios as an applications engineer!</p>
 
-If you are [@dustycode](https://github.com/dustycode), please delete your account or change your account name so I can finally have the correct username here.  Thank you.
+If you are [@dustycode](https://github.com/dustycode), pls let me have your username so I can match all of my other socials here 🥲 ty
 
 ```bash
 npx dustycode
@@ -13,7 +13,7 @@ npx dustycode
 
 # Currently
 - Building websites and stuff
-- playing balatro, probably
+- playing around with unix configs (MacOS and Arch/Hyprland)
 
 <!--
 <h2>Tools I use</h2>
